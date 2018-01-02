@@ -1,0 +1,16 @@
+/home/kuhno92/Downloads/hiwi/test/productionManagerCockpit/bin/Debug/netcoreapp1.1/productionManagerCockpit.deps.json
+/home/kuhno92/Downloads/hiwi/test/productionManagerCockpit/bin/Debug/netcoreapp1.1/productionManagerCockpit.runtimeconfig.json
+/home/kuhno92/Downloads/hiwi/test/productionManagerCockpit/bin/Debug/netcoreapp1.1/productionManagerCockpit.runtimeconfig.dev.json
+/home/kuhno92/Downloads/hiwi/test/productionManagerCockpit/bin/Debug/netcoreapp1.1/productionManagerCockpit.dll
+/home/kuhno92/Downloads/hiwi/test/productionManagerCockpit/bin/Debug/netcoreapp1.1/productionManagerCockpit.pdb
+/home/kuhno92/Downloads/hiwi/test/productionManagerCockpit/obj/Debug/netcoreapp1.1/productionManagerCockpit.AssemblyInfo.cs
+/home/kuhno92/Downloads/hiwi/test/productionManagerCockpit/obj/Debug/netcoreapp1.1/productionManagerCockpit.dll
+/home/kuhno92/Downloads/hiwi/test/productionManagerCockpit/obj/Debug/netcoreapp1.1/productionManagerCockpit.pdb
+/home/kuhno92/Downloads/hiwi/productionManagerCockpit/bin/Debug/netcoreapp1.1/productionManagerCockpit.deps.json
+/home/kuhno92/Downloads/hiwi/productionManagerCockpit/bin/Debug/netcoreapp1.1/productionManagerCockpit.runtimeconfig.json
+/home/kuhno92/Downloads/hiwi/productionManagerCockpit/bin/Debug/netcoreapp1.1/productionManagerCockpit.runtimeconfig.dev.json
+/home/kuhno92/Downloads/hiwi/productionManagerCockpit/bin/Debug/netcoreapp1.1/productionManagerCockpit.dll
+/home/kuhno92/Downloads/hiwi/productionManagerCockpit/bin/Debug/netcoreapp1.1/productionManagerCockpit.pdb
+/home/kuhno92/Downloads/hiwi/productionManagerCockpit/obj/Debug/netcoreapp1.1/productionManagerCockpit.AssemblyInfo.cs
+/home/kuhno92/Downloads/hiwi/productionManagerCockpit/obj/Debug/netcoreapp1.1/productionManagerCockpit.dll
+/home/kuhno92/Downloads/hiwi/productionManagerCockpit/obj/Debug/netcoreapp1.1/productionManagerCockpit.pdb
